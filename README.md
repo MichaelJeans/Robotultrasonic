@@ -1,2 +1,2 @@
 # Robotultrasonic
-Using ultrasonic sensors to control robot vacuum #RTOS #C++ #linux
+Using ultrasonic sensors to control robot vacuum #ROS #C++ #linux
